@@ -1,4 +1,9 @@
 body {
-    background-color: red;
-    color: antiquewhite;
+    background-color: rgba(202, 197, 180, 0.685);
+    color: rgb(252, 242, 228);
 }
+p {
+    font-family: cursive; 
+    p { color:black
+    }
+} 
